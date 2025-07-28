@@ -1,11 +1,12 @@
 # Lance Ong
 A front-end developer that will specialize in React from the Philippines.
 
-🔭 I’m currently working on L.Custom - React
-🌱 I’m currently learning React
+⤷  🔭 I’m currently working on L.Custom - React
+⤷  🌱 I’m currently learning React
 
 ## Tech Stacks:
-<i class="fa-brands fa-html5"></i>
+<img width="512" height="512" alt="material-icon-theme--html" src="https://github.com/user-attachments/assets/d2a8bebe-ba38-4916-aa7d-e58c1a7d2537" />
+
 HTML5, CSS, JavaScript, Node.js, ExpressJS, PostgreSQL, MySQL, React.
 
 ## Rarely Use Tech Stacks:
