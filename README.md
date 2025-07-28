@@ -2,10 +2,11 @@
 A front-end developer that will specialize in React from the Philippines.
 
 ⤷  🔭 I’m currently working on L.Custom - React
+
 ⤷  🌱 I’m currently learning React
 
 ## Tech Stacks:
-<img width="512" height="512" alt="material-icon-theme--html" src="https://github.com/user-attachments/assets/d2a8bebe-ba38-4916-aa7d-e58c1a7d2537" />
+<img width="32" height="32" alt="material-icon-theme--html" src="https://github.com/user-attachments/assets/e3025f86-ba00-4ffb-893f-09db4b12f87e" /><img width="32" height="32" alt="material-icon-theme--css" src="https://github.com/user-attachments/assets/4bb13284-4adb-4b59-81ac-a830fd56488e" />
 
 HTML5, CSS, JavaScript, Node.js, ExpressJS, PostgreSQL, MySQL, React.
 
